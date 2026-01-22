@@ -3,3 +3,5 @@
 # SpecStory explanation file
 /.what-is-this.md
 .env.local
+rootkey.csv
+My Key.pem
